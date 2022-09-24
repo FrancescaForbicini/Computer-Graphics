@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (A00.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  Assignment01.cpp
+LINK : warning LNK4098: la libreria predefinita 'MSVCRT' è in conflitto con l'utilizzo di altre librerie; usare /NODEFAULTLIB:libreria
+  A01.vcxproj -> C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A01\A01\x64\Debug\A01.exe
