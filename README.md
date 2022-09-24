@@ -1,5 +1,6 @@
 # Computer-Graphics
-I've attended the course of Politecnico of Milano of "Computer Graphics"
+I've attended the course of Politecnico of Milano of "Computer Graphics".
+
 Through Vulkan, Visual Studio programming using C++, I've done different assigments based on the following arguments: 
 1 – Redering pipeline, and hardware and software architectures for 3D graphics.
 2 – Basic transformation: translation, rotation, scaling and projection.
