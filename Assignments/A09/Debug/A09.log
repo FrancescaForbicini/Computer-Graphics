@@ -1,0 +1,185 @@
+﻿  Assignment09.cpp
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(63,23): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(66,23): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(69,23): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(72,23): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(107,23): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(108,25): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(110,23): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(111,25): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(113,23): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(139,25): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\models.cpp(142,25): warning C4305: '=': troncamento da 'double' a '_Ty'
+          with
+          [
+              _Ty=tinyobj::real_t
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(101,21): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1865,1): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1866,1): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1867,1): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1868,1): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1882,22): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1945,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1948,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1955,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1958,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1965,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1968,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1975,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(1978,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(2573,1): warning C4244: '+=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(2574,1): warning C4244: '+=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Assignment09.cpp(2635,14): warning C4101: 'delta': variabile locale senza riferimenti
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateInstance@12 non risolto nella funzione "private: void __thiscall Assignment04::createInstance(void)" (?createInstance@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyInstance@8 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkEnumeratePhysicalDevices@12 non risolto nella funzione "private: void __thiscall Assignment04::pickPhysicalDevice(void)" (?pickPhysicalDevice@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetPhysicalDeviceFeatures@8 non risolto nella funzione "private: bool __thiscall Assignment04::isDeviceSuitable(struct VkPhysicalDevice_T *)" (?isDeviceSuitable@Assignment04@@AAE_NPAUVkPhysicalDevice_T@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetPhysicalDeviceFormatProperties@12 non risolto nella funzione "private: enum VkFormat __thiscall Assignment04::findSupportedFormat(class std::vector<enum VkFormat,class std::allocator<enum VkFormat> >,enum VkImageTiling,unsigned int)" (?findSupportedFormat@Assignment04@@AAE?AW4VkFormat@@V?$vector@W4VkFormat@@V?$allocator@W4VkFormat@@@std@@@std@@W4VkImageTiling@@I@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetPhysicalDeviceProperties@8 non risolto nella funzione "private: enum VkSampleCountFlagBits __thiscall Assignment04::getMaxUsableSampleCount(void)" (?getMaxUsableSampleCount@Assignment04@@AAE?AW4VkSampleCountFlagBits@@XZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetPhysicalDeviceQueueFamilyProperties@12 non risolto nella funzione "private: struct QueueFamilyIndices __thiscall Assignment04::findQueueFamilies(struct VkPhysicalDevice_T *)" (?findQueueFamilies@Assignment04@@AAE?AUQueueFamilyIndices@@PAUVkPhysicalDevice_T@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetPhysicalDeviceMemoryProperties@8 non risolto nella funzione "private: unsigned int __thiscall Assignment04::findMemoryType(unsigned int,unsigned int)" (?findMemoryType@Assignment04@@AAEIII@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetInstanceProcAddr@8 non risolto nella funzione "enum VkResult __cdecl CreateDebugUtilsMessengerEXT(struct VkInstance_T *,struct VkDebugUtilsMessengerCreateInfoEXT const *,struct VkAllocationCallbacks const *,unsigned __int64 *)" (?CreateDebugUtilsMessengerEXT@@YA?AW4VkResult@@PAUVkInstance_T@@PBUVkDebugUtilsMessengerCreateInfoEXT@@PBUVkAllocationCallbacks@@PA_K@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateDevice@16 non risolto nella funzione "private: void __thiscall Assignment04::createLogicalDevice(void)" (?createLogicalDevice@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyDevice@8 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkEnumerateInstanceExtensionProperties@12 non risolto nella funzione "private: void __thiscall Assignment04::createInstance(void)" (?createInstance@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkEnumerateDeviceExtensionProperties@16 non risolto nella funzione "private: bool __thiscall Assignment04::checkDeviceExtensionSupport(struct VkPhysicalDevice_T *)" (?checkDeviceExtensionSupport@Assignment04@@AAE_NPAUVkPhysicalDevice_T@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkEnumerateInstanceLayerProperties@8 non risolto nella funzione "private: bool __thiscall Assignment04::checkValidationLayerSupport(void)" (?checkValidationLayerSupport@Assignment04@@AAE_NXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetDeviceQueue@16 non risolto nella funzione "private: void __thiscall Assignment04::createLogicalDevice(void)" (?createLogicalDevice@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkQueueSubmit@20 non risolto nella funzione "private: void __thiscall Assignment04::drawFrame(void)" (?drawFrame@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkQueueWaitIdle@4 non risolto nella funzione "private: void __thiscall Assignment04::endSingleTimeCommands(struct VkCommandBuffer_T *)" (?endSingleTimeCommands@Assignment04@@AAEXPAUVkCommandBuffer_T@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDeviceWaitIdle@4 non risolto nella funzione "private: void __thiscall Assignment04::mainLoop(void)" (?mainLoop@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkAllocateMemory@16 non risolto nella funzione "private: void __thiscall Assignment04::createBuffer(unsigned __int64,unsigned int,unsigned int,unsigned __int64 &,unsigned __int64 &)" (?createBuffer@Assignment04@@AAEX_KIIAA_K1@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkFreeMemory@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkMapMemory@36 non risolto nella funzione "private: void __thiscall Assignment04::createIndexBuffer(struct ModelData &)" (?createIndexBuffer@Assignment04@@AAEXAAUModelData@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkUnmapMemory@12 non risolto nella funzione "private: void __thiscall Assignment04::createIndexBuffer(struct ModelData &)" (?createIndexBuffer@Assignment04@@AAEXAAUModelData@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkBindBufferMemory@28 non risolto nella funzione "private: void __thiscall Assignment04::createBuffer(unsigned __int64,unsigned int,unsigned int,unsigned __int64 &,unsigned __int64 &)" (?createBuffer@Assignment04@@AAEX_KIIAA_K1@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkBindImageMemory@28 non risolto nella funzione "private: void __thiscall Assignment04::createImage(unsigned int,unsigned int,unsigned int,enum VkSampleCountFlagBits,enum VkFormat,enum VkImageTiling,unsigned int,unsigned int,unsigned __int64 &,unsigned __int64 &)" (?createImage@Assignment04@@AAEXIIIW4VkSampleCountFlagBits@@W4VkFormat@@W4VkImageTiling@@IIAA_K3@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetBufferMemoryRequirements@16 non risolto nella funzione "private: void __thiscall Assignment04::createBuffer(unsigned __int64,unsigned int,unsigned int,unsigned __int64 &,unsigned __int64 &)" (?createBuffer@Assignment04@@AAEX_KIIAA_K1@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetImageMemoryRequirements@16 non risolto nella funzione "private: void __thiscall Assignment04::createImage(unsigned int,unsigned int,unsigned int,enum VkSampleCountFlagBits,enum VkFormat,enum VkImageTiling,unsigned int,unsigned int,unsigned __int64 &,unsigned __int64 &)" (?createImage@Assignment04@@AAEXIIIW4VkSampleCountFlagBits@@W4VkFormat@@W4VkImageTiling@@IIAA_K3@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateFence@16 non risolto nella funzione "private: void __thiscall Assignment04::createSyncObjects(void)" (?createSyncObjects@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyFence@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkResetFences@12 non risolto nella funzione "private: void __thiscall Assignment04::drawFrame(void)" (?drawFrame@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkWaitForFences@24 non risolto nella funzione "private: void __thiscall Assignment04::drawFrame(void)" (?drawFrame@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateSemaphore@16 non risolto nella funzione "private: void __thiscall Assignment04::createSyncObjects(void)" (?createSyncObjects@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroySemaphore@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateBuffer@16 non risolto nella funzione "private: void __thiscall Assignment04::createBuffer(unsigned __int64,unsigned int,unsigned int,unsigned __int64 &,unsigned __int64 &)" (?createBuffer@Assignment04@@AAEX_KIIAA_K1@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyBuffer@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateImage@16 non risolto nella funzione "private: void __thiscall Assignment04::createImage(unsigned int,unsigned int,unsigned int,enum VkSampleCountFlagBits,enum VkFormat,enum VkImageTiling,unsigned int,unsigned int,unsigned __int64 &,unsigned __int64 &)" (?createImage@Assignment04@@AAEXIIIW4VkSampleCountFlagBits@@W4VkFormat@@W4VkImageTiling@@IIAA_K3@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyImage@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateImageView@16 non risolto nella funzione "private: unsigned __int64 __thiscall Assignment04::createImageView(unsigned __int64,enum VkFormat,unsigned int,unsigned int,enum VkImageViewType,int)" (?createImageView@Assignment04@@AAE_K_KW4VkFormat@@IIW4VkImageViewType@@H@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyImageView@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateShaderModule@16 non risolto nella funzione "private: unsigned __int64 __thiscall Assignment04::createShaderModule(class std::vector<char,class std::allocator<char> > const &)" (?createShaderModule@Assignment04@@AAE_KABV?$vector@DV?$allocator@D@std@@@std@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyShaderModule@16 non risolto nella funzione "private: void __thiscall Assignment04::createPipeline(char const *,char const *,unsigned __int64 &,unsigned __int64 &,unsigned __int64 &,enum VkCompareOp,enum VkPolygonMode,enum VkCullModeFlagBits,bool,struct VertexDescriptor &)" (?createPipeline@Assignment04@@AAEXPBD0AA_K11W4VkCompareOp@@W4VkPolygonMode@@W4VkCullModeFlagBits@@_NAAUVertexDescriptor@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateGraphicsPipelines@28 non risolto nella funzione "private: void __thiscall Assignment04::createPipeline(char const *,char const *,unsigned __int64 &,unsigned __int64 &,unsigned __int64 &,enum VkCompareOp,enum VkPolygonMode,enum VkCullModeFlagBits,bool,struct VertexDescriptor &)" (?createPipeline@Assignment04@@AAEXPBD0AA_K11W4VkCompareOp@@W4VkPolygonMode@@W4VkCullModeFlagBits@@_NAAUVertexDescriptor@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyPipeline@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanupSwapChain(void)" (?cleanupSwapChain@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreatePipelineLayout@16 non risolto nella funzione "private: void __thiscall Assignment04::createPipeline(char const *,char const *,unsigned __int64 &,unsigned __int64 &,unsigned __int64 &,enum VkCompareOp,enum VkPolygonMode,enum VkCullModeFlagBits,bool,struct VertexDescriptor &)" (?createPipeline@Assignment04@@AAEXPBD0AA_K11W4VkCompareOp@@W4VkPolygonMode@@W4VkCullModeFlagBits@@_NAAUVertexDescriptor@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyPipelineLayout@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanupSwapChain(void)" (?cleanupSwapChain@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateSampler@16 non risolto nella funzione "private: void __thiscall Assignment04::createTextureSampler(struct TextureData &)" (?createTextureSampler@Assignment04@@AAEXAAUTextureData@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroySampler@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateDescriptorSetLayout@16 non risolto nella funzione "private: void __thiscall Assignment04::createPhongDescriptorSetLayout(void)" (?createPhongDescriptorSetLayout@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyDescriptorSetLayout@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateDescriptorPool@16 non risolto nella funzione "private: void __thiscall Assignment04::createDescriptorPool(void)" (?createDescriptorPool@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyDescriptorPool@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanupSwapChain(void)" (?cleanupSwapChain@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkAllocateDescriptorSets@12 non risolto nella funzione "private: void __thiscall Assignment04::createPhongDescriptorSets(void)" (?createPhongDescriptorSets@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkUpdateDescriptorSets@20 non risolto nella funzione "private: void __thiscall Assignment04::createPhongDescriptorSets(void)" (?createPhongDescriptorSets@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateFramebuffer@16 non risolto nella funzione "private: void __thiscall Assignment04::createFramebuffers(void)" (?createFramebuffers@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyFramebuffer@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanupSwapChain(void)" (?cleanupSwapChain@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateRenderPass@16 non risolto nella funzione "private: void __thiscall Assignment04::createRenderPass(void)" (?createRenderPass@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyRenderPass@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanupSwapChain(void)" (?cleanupSwapChain@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateCommandPool@16 non risolto nella funzione "private: void __thiscall Assignment04::createCommandPool(void)" (?createCommandPool@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroyCommandPool@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkAllocateCommandBuffers@12 non risolto nella funzione "private: struct VkCommandBuffer_T * __thiscall Assignment04::beginSingleTimeCommands(void)" (?beginSingleTimeCommands@Assignment04@@AAEPAUVkCommandBuffer_T@@XZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkFreeCommandBuffers@20 non risolto nella funzione "private: void __thiscall Assignment04::cleanupSwapChain(void)" (?cleanupSwapChain@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkBeginCommandBuffer@8 non risolto nella funzione "private: struct VkCommandBuffer_T * __thiscall Assignment04::beginSingleTimeCommands(void)" (?beginSingleTimeCommands@Assignment04@@AAEPAUVkCommandBuffer_T@@XZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkEndCommandBuffer@4 non risolto nella funzione "private: void __thiscall Assignment04::createCommandBuffers(void)" (?createCommandBuffers@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdBindPipeline@16 non risolto nella funzione "private: void __thiscall Assignment04::createCommandBuffers(void)" (?createCommandBuffers@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdBindDescriptorSets@36 non risolto nella funzione "private: void __thiscall Assignment04::createCommandBuffers(void)" (?createCommandBuffers@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdBindIndexBuffer@24 non risolto nella funzione "private: void __thiscall Assignment04::createCommandBuffers(void)" (?createCommandBuffers@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdBindVertexBuffers@20 non risolto nella funzione "private: void __thiscall Assignment04::createCommandBuffers(void)" (?createCommandBuffers@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdDrawIndexed@24 non risolto nella funzione "private: void __thiscall Assignment04::createCommandBuffers(void)" (?createCommandBuffers@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdCopyBuffer@28 non risolto nella funzione "private: void __thiscall Assignment04::copyBuffer(unsigned __int64,unsigned __int64,unsigned __int64)" (?copyBuffer@Assignment04@@AAEX_K00@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdBlitImage@40 non risolto nella funzione "private: void __thiscall Assignment04::generateMipmaps(unsigned __int64,enum VkFormat,int,int,unsigned int,int)" (?generateMipmaps@Assignment04@@AAEX_KW4VkFormat@@HHIH@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdCopyBufferToImage@32 non risolto nella funzione "private: void __thiscall Assignment04::copyBufferToImage(unsigned __int64,unsigned __int64,unsigned int,unsigned int,int)" (?copyBufferToImage@Assignment04@@AAEX_K0IIH@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdPipelineBarrier@40 non risolto nella funzione "private: void __thiscall Assignment04::generateMipmaps(unsigned __int64,enum VkFormat,int,int,unsigned int,int)" (?generateMipmaps@Assignment04@@AAEX_KW4VkFormat@@HHIH@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdBeginRenderPass@12 non risolto nella funzione "private: void __thiscall Assignment04::createCommandBuffers(void)" (?createCommandBuffers@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCmdEndRenderPass@4 non risolto nella funzione "private: void __thiscall Assignment04::createCommandBuffers(void)" (?createCommandBuffers@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroySurfaceKHR@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetPhysicalDeviceSurfaceSupportKHR@20 non risolto nella funzione "private: struct QueueFamilyIndices __thiscall Assignment04::findQueueFamilies(struct VkPhysicalDevice_T *)" (?findQueueFamilies@Assignment04@@AAE?AUQueueFamilyIndices@@PAUVkPhysicalDevice_T@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetPhysicalDeviceSurfaceCapabilitiesKHR@16 non risolto nella funzione "private: struct SwapChainSupportDetails __thiscall Assignment04::querySwapChainSupport(struct VkPhysicalDevice_T *)" (?querySwapChainSupport@Assignment04@@AAE?AUSwapChainSupportDetails@@PAUVkPhysicalDevice_T@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetPhysicalDeviceSurfaceFormatsKHR@20 non risolto nella funzione "private: struct SwapChainSupportDetails __thiscall Assignment04::querySwapChainSupport(struct VkPhysicalDevice_T *)" (?querySwapChainSupport@Assignment04@@AAE?AUSwapChainSupportDetails@@PAUVkPhysicalDevice_T@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetPhysicalDeviceSurfacePresentModesKHR@20 non risolto nella funzione "private: struct SwapChainSupportDetails __thiscall Assignment04::querySwapChainSupport(struct VkPhysicalDevice_T *)" (?querySwapChainSupport@Assignment04@@AAE?AUSwapChainSupportDetails@@PAUVkPhysicalDevice_T@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkCreateSwapchainKHR@16 non risolto nella funzione "private: void __thiscall Assignment04::createSwapChain(void)" (?createSwapChain@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkDestroySwapchainKHR@16 non risolto nella funzione "private: void __thiscall Assignment04::cleanupSwapChain(void)" (?cleanupSwapChain@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkGetSwapchainImagesKHR@20 non risolto nella funzione "private: void __thiscall Assignment04::createSwapChain(void)" (?createSwapChain@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkAcquireNextImageKHR@40 non risolto nella funzione "private: void __thiscall Assignment04::drawFrame(void)" (?drawFrame@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _vkQueuePresentKHR@8 non risolto nella funzione "private: void __thiscall Assignment04::drawFrame(void)" (?drawFrame@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwInit non risolto nella funzione "private: void __thiscall Assignment04::initWindow(void)" (?initWindow@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwTerminate non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwWindowHint non risolto nella funzione "private: void __thiscall Assignment04::initWindow(void)" (?initWindow@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwCreateWindow non risolto nella funzione "private: void __thiscall Assignment04::initWindow(void)" (?initWindow@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwDestroyWindow non risolto nella funzione "private: void __thiscall Assignment04::cleanup(void)" (?cleanup@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwWindowShouldClose non risolto nella funzione "private: void __thiscall Assignment04::mainLoop(void)" (?mainLoop@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwGetFramebufferSize non risolto nella funzione "private: struct VkExtent2D __thiscall Assignment04::chooseSwapExtent(struct VkSurfaceCapabilitiesKHR const &)" (?chooseSwapExtent@Assignment04@@AAE?AUVkExtent2D@@ABUVkSurfaceCapabilitiesKHR@@@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwSetWindowUserPointer non risolto nella funzione "private: void __thiscall Assignment04::initWindow(void)" (?initWindow@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwGetWindowUserPointer non risolto nella funzione "private: static void __cdecl Assignment04::framebufferResizeCallback(struct GLFWwindow *,int,int)" (?framebufferResizeCallback@Assignment04@@CAXPAUGLFWwindow@@HH@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwSetFramebufferSizeCallback non risolto nella funzione "private: void __thiscall Assignment04::initWindow(void)" (?initWindow@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwPollEvents non risolto nella funzione "private: void __thiscall Assignment04::mainLoop(void)" (?mainLoop@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwWaitEvents non risolto nella funzione "private: void __thiscall Assignment04::recreateSwapChain(void)" (?recreateSwapChain@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwSetInputMode non risolto nella funzione "private: void __thiscall Assignment04::updateUniformBuffer(unsigned int)" (?updateUniformBuffer@Assignment04@@AAEXI@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwGetKey non risolto nella funzione "private: void __thiscall Assignment04::mainLoop(void)" (?mainLoop@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwGetMouseButton non risolto nella funzione "private: void __thiscall Assignment04::updateUniformBuffer(unsigned int)" (?updateUniformBuffer@Assignment04@@AAEXI@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwGetCursorPos non risolto nella funzione "private: void __thiscall Assignment04::updateUniformBuffer(unsigned int)" (?updateUniformBuffer@Assignment04@@AAEXI@Z)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwGetRequiredInstanceExtensions non risolto nella funzione "private: void __thiscall Assignment04::createInstance(void)" (?createInstance@Assignment04@@AAEXXZ)
+Assignment09.obj : error LNK2019: riferimento al simbolo esterno _glfwCreateWindowSurface non risolto nella funzione "private: void __thiscall Assignment04::createSurface(void)" (?createSurface@Assignment04@@AAEXXZ)
+C:\VulkanSDK\1.3.204.0\Lib\vulkan-1.lib : warning LNK4272: il tipo 'x64' del computer della libreria è in conflitto con il tipo 'x86' del computer di destinazione
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2019\Visual Studio Tools\Libraries\glfw-3.3.6.bin.WIN64\lib-vc2015\glfw3.lib : warning LNK4272: il tipo 'x64' del computer della libreria è in conflitto con il tipo 'x86' del computer di destinazione
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A09\A09\Debug\A09.exe : fatal error LNK1120: 101 esterni non risolti
