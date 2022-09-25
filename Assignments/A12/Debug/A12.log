@@ -1,0 +1,16 @@
+﻿  Assignment12.cpp
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(18,3): error C3861: 'glfwInit': identificatore non trovato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(19,18): error C2065: 'GLFW_CLIENT_API': identificatore non dichiarato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(19,35): error C2065: 'GLFW_NO_API': identificatore non dichiarato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(19,3): error C3861: 'glfwWindowHint': identificatore non trovato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(20,18): error C2065: 'GLFW_RESIZABLE': identificatore non dichiarato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(20,34): error C2065: 'GLFW_FALSE': identificatore non dichiarato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(20,3): error C3861: 'glfwWindowHint': identificatore non trovato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(21,3): error C2065: 'window': identificatore non dichiarato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(21,12): error C3861: 'glfwCreateWindow': identificatore non trovato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(28,35): error C2065: 'window': identificatore non dichiarato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(28,13): error C3861: 'glfwWindowShouldClose': identificatore non trovato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(29,9): error C3861: 'glfwPollEvents': identificatore non trovato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(34,24): error C2065: 'window': identificatore non dichiarato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(34,6): error C3861: 'glfwDestroyWindow': identificatore non trovato
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A12\A12\Assignment12.cpp(35,6): error C3861: 'glfwTerminate': identificatore non trovato
