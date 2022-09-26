@@ -1,0 +1,8 @@
+﻿  Assignment16.cpp
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A16\A16\Assignment16.cpp(42,9): warning C4068: l'istruzione pragma 'GCC' è sconosciuta
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A16\A16\Assignment16.cpp(43,9): warning C4068: l'istruzione pragma 'GCC' è sconosciuta
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': ridefinizione macro
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2019\Visual Studio Tools\Libraries\glfw-3.3.6.bin.WIN64\include\GLFW\glfw3.h(123): message : vedere la precedente definizione di 'APIENTRY'
+C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A16\A16\Assignment16.cpp(51,9): warning C4068: l'istruzione pragma 'GCC' è sconosciuta
+LINK : warning LNK4098: la libreria predefinita 'MSVCRT' è in conflitto con l'utilizzo di altre librerie; usare /NODEFAULTLIB:libreria
+  A16.vcxproj -> C:\Users\Francesca\OneDrive - Politecnico di Milano\Documenti\Milano\Secondo Semestre\Computer Graphics\Assignments-20220228\A16\A16\x64\Debug\A16.exe
